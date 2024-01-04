@@ -3,7 +3,7 @@ ikittyx/ikittyx is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
  
-# 👋 Olá, Mundo! Eu sou @ikittyx
+# 👋 Olá, Mundo!
 
 Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação, com um foco especial em Python. Aqui é onde eu compartilho meus projetos e ideias.
 
