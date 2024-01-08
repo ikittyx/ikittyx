@@ -20,5 +20,3 @@ Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da programação, com um fo
 ## 📫 Entre em Contato
 
 Fique à vontade para entrar em contato comigo. Você pode me enviar um e-mail para codekittyx@gmail.com.
-
-Obrigado por visitar meu perfil. Espero vê-lo novamente em breve!
